@@ -66,7 +66,7 @@ const fetchprofile = async() => {
             </div>
             <div class="status-item">
                 <h3>Following</h3>
-                <p>${temp.following}9</p>
+                <p>${temp.following}</p>
             </div>
             <div class="status-item">
                 <h3>Repos</h3>
